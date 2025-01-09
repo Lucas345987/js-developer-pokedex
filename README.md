@@ -1,13 +1,13 @@
-# Trilha JS Developer - Pokedex
-#Techs
-/n
-Javascript/n
-HTML/n
-CSS/n
-API REST/n
-GIT/n
+### Techs 
 
-#Dev Notes/n
-Versão: 1.0/n
-Upload: Abril/2023/n
-API: https://pokeapi.co/n/
+* Javascript
+* HTML
+* CSS
+* API REST
+* GIT
+
+### Dev Notes
+- Versão: **1.0** 
+- Upload: Abril/2023
+- API: https://pokeapi.co/
+  
