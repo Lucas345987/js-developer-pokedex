@@ -10,6 +10,6 @@
 
 ### Dev Notes
 - Versão: **1.0** 
-- Upload: Abril/2023
+- Upload: Janeiro/2025
 - API: https://pokeapi.co/
   
